@@ -15,12 +15,15 @@ This project accompanies an article on Software Development in the age of AI. It
 ```plaintext
 .
 ├── .github/
-│   ├── instructions/             # AI context management files
+│   ├── instructions/             # Custom, specialized instructions
 │   │   ├── components.instructions.md
 │   │   ├── storybook.instructions.md
 │   │   ├── test-generation.instructions.md
 │   │   └── typescript-react.instructions.md
-│   └── copilot-instructions.md  # Global project instructions
+│   ├── prompts/                  # Reusable prompts
+│   │   ├── fix-codacy-issues.prompt.md
+│   │   └── work-on-ticket.prompt.md
+│   └── copilot-instructions.md   # Global project instructions
 ├── .vscode/
 │   ├── mcp.json             # List of MCP servers in use
 │   ├── settings.json        # Project-specific settings
