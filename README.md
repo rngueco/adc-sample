@@ -4,7 +4,7 @@ This repository serves as a practical example of implementing an AI Development 
 
 ## Purpose
 
-This project accompanies an article on Software Development in the age of AI. It showcases how to:
+This project accompanies an [article on Software Development in the age of AI](https://goodfrontend.dev/stories/software-development-in-the-age-of-ai). It showcases how to:
 
 - Organize AI-specific instructions and prompts in a structured manner
 - Implement contextual guidelines for different types of files and components
